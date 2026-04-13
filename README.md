@@ -74,14 +74,6 @@ docker-compose up --build
 └── docker-compose.yml # Service Orchestration
 👤 Author
 MD Sahil
-
-💼 LinkedIn
-
-🌐 Portfolio
-
-📧 Email
-
-<div align="center">
+💼 LinkedIn   🌐 Portfolio   📧 Email
 
 ⭐ Star this repository if you find it useful!
-</div>
